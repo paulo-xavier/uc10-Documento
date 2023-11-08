@@ -43,13 +43,13 @@ Superscript -> Here is the <sup> superscript <\sup>
 
 > This is a blockquote
 
-# Horizontal row
+## Horizontal row
 
 Use 3 or more hyphens (---) or (***) to create a horizontal row
 
 ---
 
-# Code 
+## Code 
 
 Use backticks (`) to insert inline code
 Use 3 backticks (```) to create block code
@@ -63,6 +63,28 @@ age = 18
 print(f"The age is {age}")
 
 ```
+
+# Tables
+
+Create tables with pipes (|) to separate columns
+Use backticks and pipes to define the table format
+
+|  Heading 1 | Heading 2   |
+| -----------|  -----------|
+|  Data 1    |   Data 2    |
+|  Data 3    |   Data 4    |
+
+
+
+## To-do list
+
+Use - [ ] to create an unmarked to-do list
+Use - [x] to create a marked to-do list 
+
+Example
+- [x] task done
+- [ ] pending task
+
 
 
 
