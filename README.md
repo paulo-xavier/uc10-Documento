@@ -43,5 +43,12 @@ Superscript -> Here is the <sup> superscript <\sup>
 
 > This is a blockquote
 
+# Horizontal row
+
+Use 3 or more hyphens (---) or (***) to create a horizontal row
+
+---
+
+
 
 
