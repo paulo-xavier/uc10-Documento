@@ -89,3 +89,14 @@ Example
 [page 2 of the documentation](page.md)
 
 
+# Footer notes
+
+This is an example of footer mark [^1]
+
+The class is with Ricardo [^2]
+
+[^1]: Footer: Content below of the document
+[^2]: Ricardo: Teacher of GIT's class
+
+Here another line 
+
