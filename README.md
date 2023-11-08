@@ -98,5 +98,21 @@ The class is with Ricardo [^2]
 [^1]: Footer: Content below of the document
 [^2]: Ricardo: Teacher of GIT's class
 
-Here another line 
+Here another line.
+
+# Alert
+
+> **Note**
+> This is a note
+
+> [!NOTE]
+> Highlight informations that users must regard, even though a superficial reading.
+
+> [!IMPORTANT]
+> Crucial information necessary for the user success
+
+> [!WARNING]
+> Critical content that requires immediate attention from the user because of potential risks 
+
+
 
