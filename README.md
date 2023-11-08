@@ -49,6 +49,20 @@ Use 3 or more hyphens (---) or (***) to create a horizontal row
 
 ---
 
+# Code 
+
+Use backticks (`) to insert inline code
+Use 3 backticks (```) to create block code
+
+Use backticks (\`) to insert `inline` code. 
+
+`print ("show message")`
+
+```
+age = 18
+print(f"The age is {age}")
+
+```
 
 
 
