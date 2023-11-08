@@ -24,6 +24,8 @@ Here is a paragraph.
 ## Links
 Links:
 [Link text](https://senac.blackboard.com/)
+> [!IMPORTANT]
+> You can alsos use the shortcut ``` ctrl + k ```
 
 ## Images
 ![GitHub image](https://github.com/paulo-xavier/uc10_Documento/blob/main/github.png)
@@ -32,8 +34,14 @@ Links:
 ## Emphasize
 
 Italic  -> *italic text* or _italic text_
+> [!IMPORTANT]
+> You can alsos use the shortcut ``` ctrl + i ```
+
 
 Bold -> **bold text** or __bold text__
+> [!IMPORTANT]
+> You can alsos use the shortcut ``` ctrl + b ```
+
 
 Deleted -> ~~deleted text~~
 
