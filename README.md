@@ -27,5 +27,19 @@ Links:
 
 ## Images
 ![GitHub image](https://github.com/paulo-xavier/uc10_Documento/blob/main/github.png)
-  
+
+
+## Emphasize
+
+Italic  -> *italic text* or _italic text_
+
+Bold -> **bold text** or __bold text__
+
+Deleted -> ~~deleted text~~
+
+Subscript -> Here is the <sub> subscript <\sub> 
+
+Superscript -> Here is the <sup> superscript <\sup>
+
+
 
